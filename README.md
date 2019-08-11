@@ -1,1 +1,1 @@
-Studing tests with React using Jest.
+Studying tests with React using Jest.
